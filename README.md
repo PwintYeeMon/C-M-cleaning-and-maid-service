@@ -10,9 +10,12 @@ appointments and also wants to have a website where customers can easily book an
 the company.
 
 The developed system will be used by four types of users, namely
-o Manager
-o Administrator
-o Employee (House cleaner)
-o Customer/ Client
+* Manager
+* Administrator
+* Employee (House cleaner)
+* Customer/ Client
 
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/73326367/182624868-d0308495-2bc0-427b-8cd7-c409fa855972.png">
+![screencapture-localhost-C-M-company-User-pages-2022-08-03-20_24_00](https://user-images.githubusercontent.com/73326367/182625837-424d5218-f090-45dc-a744-445b79c31e2c.png)
+
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/73326367/182626080-4946259e-2b50-428f-a496-880270be4830.png">
+
